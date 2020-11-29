@@ -11,68 +11,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01第一个go程序.go" pinned="false" current-in-tab="false">
+      <file leaf-file-name="01第一个go程序.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/代码/01第一个go程序.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="475">
               <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="03多重赋值.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/代码/03多重赋值.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05格式输入.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/代码/05格式输入.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1404">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02变量定义和使用.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/代码/02变量定义和使用.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04输出格式.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/代码/04输出格式.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="笔记.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/笔记/笔记.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="02交换变量的值.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/笔记/02交换变量的值.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="01内存存储数据.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/笔记/01内存存储数据.png">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -82,12 +27,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/代码/06数据类型.go" />
-        <option value="$PROJECT_DIR$/代码/05格式输入.go" />
         <option value="$PROJECT_DIR$/笔记/笔记.txt" />
         <option value="$PROJECT_DIR$/代码/01第一个go程序.go" />
         <option value="$PROJECT_DIR$/代码/02变量定义和使用.go" />
         <option value="$PROJECT_DIR$/代码/03多重赋值.go" />
         <option value="$PROJECT_DIR$/代码/04输出格式.go" />
+        <option value="$PROJECT_DIR$/代码/05格式输入.go" />
       </list>
     </option>
   </component>
@@ -101,8 +46,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="765" />
-    <option name="y" value="34" />
+    <option name="x" value="393" />
+    <option name="y" value="54" />
     <option name="width" value="1400" />
     <option name="height" value="1008" />
   </component>
@@ -119,21 +64,6 @@
               <item name="01" type="b2602c69:ProjectViewProjectNode" />
               <item name="01" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01" type="462c0819:PsiDirectoryNode" />
-              <item name="代码" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01" type="462c0819:PsiDirectoryNode" />
-              <item name="笔记" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="01" type="462c0819:PsiDirectoryNode" />
-              <item name="资料" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -146,7 +76,7 @@
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -161,7 +91,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build 01第一个go程序.go">
+  <component name="RunManager" selected="Go Build.go build 05格式输入.go">
     <configuration name="go build 01第一个go程序.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="01" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -186,13 +116,23 @@
       <filePath value="$PROJECT_DIR$/代码/03多重赋值.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
+    <configuration name="go build 05格式输入.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="01" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/代码/05格式输入.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
     <list>
       <item itemvalue="Go Build.go build 01第一个go程序.go" />
       <item itemvalue="Go Build.go build 02变量定义和使用.go" />
       <item itemvalue="Go Build.go build 03多重赋值.go" />
+      <item itemvalue="Go Build.go build 05格式输入.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build 05格式输入.go" />
         <item itemvalue="Go Build.go build 01第一个go程序.go" />
         <item itemvalue="Go Build.go build 02变量定义和使用.go" />
         <item itemvalue="Go Build.go build 03多重赋值.go" />
@@ -200,15 +140,14 @@
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="765" y="34" width="1400" height="1008" extended-state="0" />
-    <editor active="true" />
+    <frame x="393" y="54" width="1400" height="1008" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5007225" side_tool="true" weight="0.31256953" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49927744" visible="true" weight="0.31256953" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49927744" weight="0.33926585" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
@@ -232,12 +171,12 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.31256953" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49927744" visible="true" weight="0.33926585" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5007225" side_tool="true" weight="0.31256953" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -275,13 +214,6 @@
     <entry file="file://$PROJECT_DIR$/笔记/01内存存储数据.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码/01第一个go程序.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/代码/04输出格式.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="101">
@@ -289,10 +221,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码/02变量定义和使用.go">
+    <entry file="file://$PROJECT_DIR$/代码/05格式输入.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        <state relative-caret-position="324">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -303,10 +235,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/代码/05格式输入.go">
+    <entry file="file://$PROJECT_DIR$/代码/02变量定义和使用.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1404">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="63">
+          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/代码/01第一个go程序.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>
